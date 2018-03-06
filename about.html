@@ -7,7 +7,7 @@ permalink: /about/
 
 {% for author in site.data.authors[1] %}
     <pre>
-        {{author[1]}}
+        {{author[0].bio}}
     </pre>
   <li>
     <a href="{{ author.uri }}">
