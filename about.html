@@ -7,9 +7,11 @@ permalink: /about/
 
 {% for author in site.data.authors %}
   <li>
-    <a href="{{ author[1].uri }}">
-      <h3>{{ author[1].name }}</h3>
-    </a>
+    <h3>
+      <a href="{{ author[1].uri }}">
+        {{ author[1].name }}
+      </a>
+    </h3>
     <p>{{ author[1].bio }}</p>
   </li>
 {% endfor %}
