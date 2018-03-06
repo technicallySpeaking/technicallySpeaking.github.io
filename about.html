@@ -2,8 +2,11 @@
 title: About
 permalink: /about/
 ---
-
+<p>Sip and Learn sessions are provided by your friendly neighborhood tech team. If you have topic particularly of interest to you, let us know!</p>
 <ul>
+    <pre>
+        {{site.data.authors}}
+    </pre>
 {% for author in site.data.authors %}
   <li>
     <a href="{{ author.uri }}">
