@@ -3,12 +3,13 @@ title: About
 permalink: /about/
 ---
 
-## Ben
-
-## Jason
-
-## Jeremy
-
-## Kevin
-
-## Ryan
+<ul>
+{% for author in site.data.authors %}
+  <li>
+    <a href="{{ author.uri }}">
+      <h3>{{ author.name }}</h3>
+    </a>
+    <p>{{ author.bio }}</p>
+  </li>
+{% endfor %}
+</ul>
