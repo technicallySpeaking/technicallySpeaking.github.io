@@ -5,32 +5,12 @@ permalink: /about/
 <p>Sip and Learn sessions are provided by your friendly neighborhood tech team. If you have topic particularly of interest to you, let us know!</p>
 <ul>
 
-{% for author in site.data.authors[1] %}
-    <pre>
-        parent
-        {{author}}
-    </pre>
-    <pre>
-        zero
-        {{author[0]}}
-    </pre>
-    <pre>
-        first element
-        {{author[1]}}
-    </pre>
-    <pre>
-        zero element name
-        {{author[0].name}}
-    </pre>    
-    <pre>
-        1 element name
-        {{author[1].name}}
-    </pre>
+{% for author in site.data.authors %}
   <li>
-    <a href="{{ author.uri }}">
-      <h3>{{ author.name }}</h3>
+    <a href="{{ author[1].uri }}">
+      <h3>{{ author[1].name }}</h3>
     </a>
-    <p>{{ author.bio }}</p>
+    <p>{{ author[1].bio }}</p>
   </li>
 {% endfor %}
 </ul>
