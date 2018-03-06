@@ -1,6 +1,6 @@
 ---
 title: 'Alexa: What it is, what it isn''t'
-date: 2018-02-14 15:10:00
+date: 2017-07-27 15:10:00
 categories:
   - alexa
   - nlp
@@ -10,4 +10,4 @@ categories:
 author: Jason Webb
 ---
 
-Jason explains Alexa.
+Over a drink we will explore what Alexa is, what it isn't, and what all the fuss is about.
