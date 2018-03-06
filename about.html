@@ -5,15 +5,15 @@ permalink: /about/
 <p>Sip and Learn sessions are provided by your friendly neighborhood tech team. If you have topic particularly of interest to you, let us know!</p>
 <ul>
 
-{% site.data.authors.each do |key, value| %}
+{% for author in site.data.authors[author] %}
     <pre>
-        {{value}}
+        {{author}}
     </pre>
   <li>
     <a href="{{ author.uri }}">
-      <h3>{{ value.name }}</h3>
+      <h3>{{ author.name }}</h3>
     </a>
-    <p>{{ value.bio }}</p>
+    <p>{{ author.bio }}</p>
   </li>
 {% endfor %}
 </ul>
