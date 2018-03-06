@@ -1,5 +1,6 @@
 ---
 title:
+author:
 date:
 tags:
 ---
