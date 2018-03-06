@@ -7,12 +7,23 @@ permalink: /about/
 
 {% for author in site.data.authors %}
     <pre>
-        {{author[0].bio}}
+        parent
+        {{author}}
     </pre>
     <pre>
+        zero
         {{author[0]}}
+    </pre>
+    <pre>
+        first element
+        {{author[1]}}
+    </pre>
+    <pre>
+        zero element name
+        {{author[0].name}}
     </pre>    
     <pre>
+        1 element name
         {{author[1].name}}
     </pre>
   <li>
