@@ -7,7 +7,7 @@ Have you heard of IoT? It's another one of those abbreviations that we like to t
 I'm kidding. It stands for Internet of Things (although that was an actual disambiguation).
 
 > The Internet of things (IoT) is the network of physical devices, vehicles, and other items [embedded](https://en.wikipedia.org/wiki/Embedded_system) with [electronics](https://en.wikipedia.org/wiki/Electronics), > [software](https://en.wikipedia.org/wiki/Software), [sensors](https://en.wikipedia.org/wiki/Sensor), [actuators](https://en.wikipedia.org/wiki/Actuator), and network [connectivity](https://en.wikipedia.org/wiki/Internet_access) which enable these objects to collect and exchange [data](https://en.wikipedia.org/wiki/Data).
-> -- <cite>Wikipedia</cite>
+> <cite>Wikipedia</cite>
 
 ...Pretty much the concept that puts the word "smart" on every appliance in your homes.
 
