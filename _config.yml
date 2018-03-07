@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Lets's learn about technology together. Your friendly neighborhood developers would
   like to share some things we know to satisfy your curiosity, remove limitations and
   improve cross-discipline communication.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "betterKnowTechnology" # the subpath of your site, e.g. /blog
+url: "http://ryanparsley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ryanparsley
 
 paginate: 5 # amount of posts to show
