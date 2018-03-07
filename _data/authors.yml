@@ -10,7 +10,7 @@ Jeremy Daley:
   uri: 'https://passport.vml.com/user/jdaley'
   email: jeremy.daley@vml.com
   bio: Web application developer in Cincinnati
-  avatar: 'https://pbs.twimg.com/profile_images/649005175626145793/R77vB5ZG_400x400.jpg'
+  avatar: /assets/images/jeremy.jpg
   twitter: daleyjem
 Ben Lacy:
   name: Benjamin Lacy
