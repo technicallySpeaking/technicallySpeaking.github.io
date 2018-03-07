@@ -6,15 +6,14 @@ permalink: /about/
 
 {% for author in site.data.authors %}
   <div class="text-center">
-    <h3>
+    <h2>
       <a href="{{ author[1].uri }}">
         {{ author[1].name }}
       </a>
-    </h3>
+    </h2>
     <div class="author__avatar" style="width: auto; height: auto; display: block">
       <img style="display: block; margin-left: auto; margin-right: auto;" src="{{baseurl}}{{ author[1].avatar }}"/>
     </div>
     <p>{{ author[1].bio }}</p>
-    <hr/>
   </div>
 {% endfor %}
