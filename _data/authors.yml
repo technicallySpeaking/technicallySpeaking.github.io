@@ -30,5 +30,4 @@ Kevin Peterson:
   uri: 'https://passport.vml.com/user/kpeterson'
   email: kevin.peterson@vml.com
   bio: Rather orange smoker of meats
-  avatar: >-
-    https://passport.vml.com/sites/default/files/styles/large/public/default_images/employee-nomination-avatar_1.jpg?itok=DNjSqje0
+  avatar: /assets/images/kevin.jpg
