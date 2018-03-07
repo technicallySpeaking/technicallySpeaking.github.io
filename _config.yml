@@ -26,7 +26,7 @@ github_username:  ryanparsley
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
-repository: RyanParsley/technicallySpeaking
+repository: vml-cincinnati/technicallySpeaking
 
 defaults:
   # _posts
