@@ -5,7 +5,7 @@ permalink: /about/
 <p>Sip and Learn sessions are provided by your friendly neighborhood tech team. If you have topic particularly of interest to you, let us know!</p>
 
 {% for author in site.data.authors %}
-author[1]
+{{author[1]}}
   <div class="text-center">
     <h2>{{ author[1].name }}</h2>
     <div class="author__avatar" style="width: auto; height: auto; display: block">
