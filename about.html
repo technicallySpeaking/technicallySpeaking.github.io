@@ -3,9 +3,9 @@ title: About
 permalink: /about/
 ---
 <p>Sip and Learn sessions are provided by your friendly neighborhood tech team. If you have topic particularly of interest to you, let us know!</p>
-<ul>
+
 {% for author in site.data.authors %}
-  <li>
+  <div>
       <div class="author__avatar align-left">
           <img src="{{baseurl}}{{ author[1].avatar }}"/>
       </div>
@@ -15,6 +15,5 @@ permalink: /about/
       </a>
     </h3>
     <p>{{ author[1].bio }}</p>
-  </li>
+  </div>
 {% endfor %}
-</ul>
