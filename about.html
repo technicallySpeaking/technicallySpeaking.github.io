@@ -5,9 +5,9 @@ permalink: /about/
 <p>Sip and Learn sessions are provided by your friendly neighborhood tech team. If you have topic particularly of interest to you, let us know!</p>
 
 {% for author in site.data.authors %}
-  <div>
+  <div class="text-center">
       <div class="author__avatar">
-          <img src="{{baseurl}}{{ author[1].avatar }}"/>
+          <img class="align-center" src="{{baseurl}}{{ author[1].avatar }}"/>
       </div>
     <h3>
       <a href="{{ author[1].uri }}">
