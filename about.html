@@ -6,8 +6,10 @@ permalink: /about/
 <ul>
 {% for author in site.data.authors %}
   <li>
+      <div class="author__avatar align-left">
+          <img src="{{baseurl}}{{ author[1].avatar }}"/>
+      </div>
     <h3>
-    <img class="align-left author__avatar" src="{{baseurl}}{{ author[1].avatar }}"/>
       <a href="{{ author[1].uri }}">
         {{ author[1].name }}
       </a>
