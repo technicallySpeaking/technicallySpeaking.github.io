@@ -3,8 +3,7 @@ Ryan Parsley:
   uri: 'https://passport.vml.com/user/rparsley'
   email: ryan.parsley@vml.com
   bio: I like to make things
-  avatar: >-
-    https://pbs.twimg.com/profile_images/3631391002/d6e6ad77198948c375615467e6dad128_400x400.jpeg
+  avatar: /assets/images/ryan.jpg
   twitter: ryanparsley
 Jeremy Daley:
   name: Jeremy Daley
