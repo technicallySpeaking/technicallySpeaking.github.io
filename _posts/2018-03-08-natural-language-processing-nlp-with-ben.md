@@ -5,7 +5,7 @@ tags:
   - nlp
   - alexa
 header:
-  overlay_image:
+  overlay_image: "/assets/images/nlp-ben.jpg"
   show_overlay_excerpt: false
 ---
 
