@@ -4,7 +4,7 @@ author: Ben Lacy
 tags:
   - nlp
   - alexa
-exerpt: "You've seen what Alexa and other voice-enabled devices can do, now see how they do it."
+teaser: "You've seen what Alexa and other voice-enabled devices can do, now see how they do it."
 header:
   overlay_image: "/assets/images/nlp-ben.jpg"
   show_overlay_excerpt: false
