@@ -3,30 +3,30 @@ Jason Webb:
   uri: 'https://passport.vml.com/user/jwebb'
   email: jason.webb@vml.com
   bio: Middletown Ohio's premier front end developer
-  avatar_path: /assets/images/webb.jpg
+  avatar: /assets/images/webb.jpg
 Jeremy Daley:
   name: Jeremy Daley
   uri: 'https://passport.vml.com/user/jdaley'
   email: jeremy.daley@vml.com
   bio: Web application developer in Cincinnati
-  avatar_path: /assets/images/jeremy.jpg
+  avatar: /assets/images/jeremy.jpg
   twitter: daleyjem
 Ryan Parsley:
   name: Ryan Parsley
   uri: 'https://passport.vml.com/user/rparsley'
   email: ryan.parsley@vml.com
   bio: I like to make things
-  avatar_path: /assets/images/ryan.jpg
+  avatar: /assets/images/ryan.jpg
   twitter: ryanparsley
 Kevin Peterson:
   name: Kevin Peterson
   uri: 'https://passport.vml.com/user/kpeterson'
   email: kevin.peterson@vml.com
   bio: Rather orange smoker of meats
-  avatar_path: /assets/images/kevin.jpg
+  avatar: /assets/images/kevin.jpg
 Ben Lacy:
   name: Benjamin Lacy
   uri: 'https://passport.vml.com/user/blacy'
   email: benjamin.lacy@vml.com
   bio: 'Web/software developer, hitter of things with sticks, all around nerd.'
-  avatar_path: /assets/images/ben.jpg
+  avatar: /assets/images/ben.jpg
