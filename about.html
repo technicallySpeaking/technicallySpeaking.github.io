@@ -8,7 +8,7 @@ permalink: /about/
   <div class="text-center">
     <h2>{{ author[1].name }}</h2>
     <div class="author__avatar" style="width: auto; height: auto; display: block">
-      <img style="display: block; margin-left: auto; margin-right: auto;" src="{{ author[1].avatar_path | relative_url }}"/>
+      <img style="display: block; margin-left: auto; margin-right: auto;" src="{{ author[1].avatar | relative_url }}"/>
     </div>
     <p>{{ author[1].bio }}</p>
     <a class="btn btn--primary" href="{{ author[1].uri }}">Passport Profile</a>
