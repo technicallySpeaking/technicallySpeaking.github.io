@@ -8,7 +8,8 @@ header:
   overlay_image:
   show_overlay_excerpt: false
 ---
-## March 22, 4:00
+
+## When: March 22, 4:00
 
 ### What it is, what it isn't, and why we care
 
