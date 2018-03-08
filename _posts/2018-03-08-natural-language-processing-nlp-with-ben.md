@@ -13,6 +13,6 @@ header:
 
 ### What it is, what it isn't, and why we care
 
-Computers are dumb machines that need to be told *exactly* how to perform a task. We want them to be able to navigate the chaos that is human speech. You've seen what Alexa and other smart devices can do, now see how they do it.
+Computers are dumb machines that need to be told *exactly* how to perform a task. We want them to be able to navigate the chaos that is human speech. You've seen what Alexa and other voice-enabled devices can do, now see how they do it.
 
 Enter NLP. We'll talk about what it is, the current state of the technology, and how we might utilize it.
