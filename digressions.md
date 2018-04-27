@@ -19,7 +19,7 @@ Illustrating the potential to create experiences as a biproduct of preexisting d
 
 An Arduino powered IOT device that monitors temperature and humidity in a baby's room. It makes skin care recommendations based on conditions and enables easy repurchase.
 
-![](/uploads/rosie.jpg)
+![](/uploads/rosie-1.jpg)![](/uploads/rosie.jpg)
 
 ### Internet of Dingus
 
