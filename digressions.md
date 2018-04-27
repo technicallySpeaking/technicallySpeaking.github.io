@@ -1,5 +1,7 @@
 # Digressions
 
+## IOT
+I am in the process of building a fairly naive implementation of an IOT ecosystem to better illustrate the various bits this buzzword is comprised. You can read more about it on [this passport post](https://passport.vml.com/post/introducing-internet-dingus)
 
 ## Robots
 
