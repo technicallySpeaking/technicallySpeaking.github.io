@@ -15,6 +15,10 @@ Illustrating the potential to create experiences as a biproduct of preexisting d
 
 ## IOT
 
+### Keg Stand
+
+Jeremy has been toiling away at one of man's greatest questions... "How much beer is in the keg?" Keg Stand is an awesome Arduino based monitoring system. When a new keg is tapped, you let the system know what it's called. The Untapped API then provides information about the beer of the week. Historically, a flow meter has monitored consumption and gave real-time status on the contents of the keg. Currently, Jeremy (unsatisfied with the quality of the data from the flow meter) has been working on updating the system to use weight based metrics instead.
+
 ### Rosie
 
 An Arduino powered IOT device that monitors temperature and humidity in a baby's room. It makes skin care recommendations based on conditions and enables easy repurchase.
