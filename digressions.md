@@ -9,7 +9,7 @@ When we're not fully billable, the team has explored a wide variety of technolog
 
 ### Solar Pro
 
-Illustrating the potential to create experiences as a biproduct of preexisting data, Jason built an Alexa skill that exposes energy consumption in a more human friendly way.
+Illustrating the potential to create experiences as a byproduct of preexisting data, Jason built an Alexa skill that exposes energy consumption in a more human friendly way.
 
 ## IOT
 
