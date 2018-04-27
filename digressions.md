@@ -23,13 +23,13 @@ Jeremy has been toiling away at one of man's greatest questions... "How much bee
 
 An Arduino powered IOT device that monitors temperature and humidity in a baby's room. It makes skin care recommendations based on conditions and enables easy repurchase.
 
-![](/uploads/rosie-1.jpg)![](/uploads/rosie.jpg)
+![Arduino based device for monitoring a baby's room](/uploads/rosie-1.jpg)![](/uploads/rosie.jpg)
 
 ### Internet of Dingus
 
 Ryan is in the process of building a fairly naive implementation of an IOT ecosystem to better illustrate the various bits this buzzword is comprised. You can read more about it on [this passport post](https://passport.vml.com/post/introducing-internet-dingus).
 
-![](/uploads/dingus-bb-0.png)
+![schematic for a dingus](/uploads/dingus-bb-0.png)
 
 ## Robots
 
