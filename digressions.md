@@ -1,3 +1,8 @@
+---
+title: Digressions
+permalink: /digressions/
+---
+
 When we're not fully billable, the team has explored a wide variety of technology. This is as good of a place as any to make note of a few.
 
 ## Voice
