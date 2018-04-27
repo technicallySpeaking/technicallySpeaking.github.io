@@ -23,7 +23,7 @@ Jeremy has been toiling away at one of man's greatest questions... "How much bee
 
 An Arduino powered IOT device that monitors temperature and humidity in a baby's room. It makes skin care recommendations based on conditions and enables easy repurchase.
 
-![Arduino based device for monitoring a baby's room](/uploads/rosie-1.jpg)![](/uploads/rosie.jpg)
+![Arduino based device for monitoring a baby's room](/uploads/rosie.jpg)
 
 ### Internet of Dingus
 
