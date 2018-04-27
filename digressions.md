@@ -1,3 +1,6 @@
+# Digressions
+
+
 ## Robots
 
 One of the first ambitious things we made with the 3d printer was a 2 wheel robot that could be controlled via a web browser.
@@ -6,4 +9,4 @@ One of the first ambitious things we made with the 3d printer was a 2 wheel robo
 
 Ryan spent a year learning how CNC routers work via a series of experimental builds. The first iteration was to reclaim motors out of old computer parts so that a minimum viable CNC could be built for under $50.
 
-![](/uploads/ewastecnc-1.jpg)
+![Upcycled CNC](/uploads/ewastecnc-1.jpg)
