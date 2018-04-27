@@ -19,6 +19,7 @@ Illustrating the potential to create experiences as a biproduct of preexisting d
 ### Rosie
 An arduino powered IOT device that monitors temperature and humidity in a baby's room. It makes skin care recommendations based on conditions and enables easy repurchase.
 
+
 ### Internet of Dingus
 Ryan is in the process of building a fairly naive implementation of an IOT ecosystem to better illustrate the various bits this buzzword is comprised. You can read more about it on [this passport post](https://passport.vml.com/post/introducing-internet-dingus)
 
