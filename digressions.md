@@ -40,3 +40,7 @@ One of the first ambitious things we made with the 3d printer was a 2 wheel robo
 Ryan spent a year learning how CNC routers work via a series of experimental builds. The first iteration was to reclaim motors out of old computer parts so that a minimum viable CNC could be built for under $50.
 
 ![Upcycled CNC](/uploads/ewastecnc-1.jpg)
+
+This minor vicory was rolled into spending more money on motors and building a more advanced CNC router based on open source hardware.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TWuP_DbFSsA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
