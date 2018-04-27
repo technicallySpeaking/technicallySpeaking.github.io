@@ -11,8 +11,6 @@ When we're not fully billable, the team has explored a wide variety of technolog
 
 Illustrating the potential to create experiences as a biproduct of preexisting data, Jason built an Alexa skill that exposes energy consumption in a more human friendly way.
 
-### Digital Shelf
-
 ## IOT
 
 ### Keg Stand
