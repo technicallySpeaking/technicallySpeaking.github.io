@@ -5,6 +5,8 @@ permalink: /digressions/
 
 When we're not fully billable, the team has explored a wide variety of technology. This is as good of a place as any to make note of a few.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YcS6NqaOb8o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Voice
 
 ### Solar Pro
