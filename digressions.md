@@ -9,6 +9,10 @@ When we're not fully billable, the team has explored a wide variety of technolog
 
 ## Voice
 
+### Shopcast
+
+Unsatisfied with perceived limitations of Google Assistant, the team worked to build out a human centered shopping experience that tied voice commands to a rich visual component. The user can have a casual conversation with Google assistant that prompts collections of products to be displayed on a near by television.
+
 ### Solar Pro
 
 Illustrating the potential to create experiences as a byproduct of preexisting data, Jason built an Alexa skill that exposes energy consumption in a more human friendly way.
@@ -20,11 +24,12 @@ Illustrating the potential to create experiences as a byproduct of preexisting d
 Jeremy has been toiling away at one of man's greatest questions... "How much beer is in the keg?" Keg Stand is an awesome Arduino based monitoring system. When a new keg is tapped, you let the system know what it's called. The Untapped API then provides information about the beer of the week. Historically, a flow meter has monitored consumption and gave real-time status on the contents of the keg. Currently, Jeremy (unsatisfied with the quality of the data from the flow meter) has been working on updating the system to use weight based metrics instead.
 
 Anyone pouring a beer at the kegerator will see what's on tap and how much of it is left...
+
 ![Tablet app](/uploads/20180427_173253.jpg)
 
 Data dumps happen every 10 seconds from the app so that other services (Alexa, for instance) can pull from that data.
-![Echo Show](/uploads/20180427_173338.jpg)
 
+![Echo Show](/uploads/20180427_173338.jpg)
 
 ### Rosie
 
