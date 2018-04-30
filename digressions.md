@@ -43,7 +43,7 @@ An Arduino powered IOT device that monitors temperature and humidity in a baby's
 
 ### Internet of Dingus
 
-Ryan is in the process of building a fairly naive implementation of an IOT ecosystem to better illustrate the various bits this buzzword is comprised. You can read more about it on [this passport post](https://passport.vml.com/post/introducing-internet-dingus).
+Ryan is in the process of building an IOT ecosystem to better illustrate the various bits this buzzword is comprised. You can read more about it on [this passport post](https://passport.vml.com/post/introducing-internet-dingus).
 
 ![schematic for a dingus](/uploads/dingus-bb-0.png)
 
