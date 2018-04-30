@@ -19,6 +19,10 @@ Illustrating the potential to create experiences as a byproduct of preexisting d
 
 ## IOT
 
+### Digital Shelf
+
+The team worked together to create an in-store kiosk to empower overwhelmed customers. The kiosk guides the customer to the most appropriate product by asking a series of questions. Once the perfect product has been decided upon, a series of lights guides the customer to the location of the physical product.
+
 ### Keg Stand
 
 Jeremy has been toiling away at one of man's greatest questions... "How much beer is in the keg?" Keg Stand is an awesome Arduino based monitoring system. When a new keg is tapped, you let the system know what it's called. The Untapped API then provides information about the beer of the week. Historically, a flow meter has monitored consumption and gave real-time status on the contents of the keg. Currently, Jeremy (unsatisfied with the quality of the data from the flow meter) has been working on updating the system to use weight based metrics instead.
