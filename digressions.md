@@ -49,7 +49,7 @@ Ryan is in the process of building an IOT ecosystem to better illustrate the var
 
 ## Robots
 
-One of the first ambitious things we made with the 3d printer was a 2 wheel robot that could be controlled via a web browser.
+One of the first ambitious things we made with the 3d printer was a two wheel robot that could be controlled via a web browser.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E665J3E3drg?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
