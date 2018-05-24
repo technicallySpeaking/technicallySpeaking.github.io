@@ -33,8 +33,8 @@ I happened to make my first one from a Huzzah Feather from a company called Adaf
 [Slides are posted here](https://ryanparsley.github.io/iod-technicallySpeaking/)
 
 ## Links
-[Frontend App](http://iod-client.herokuapp.com/)
-[Drupal Server](http://iod-server.herokuapp.com/)
-[MQTT Broker used (adafruit.io)](https://io.adafruit.com/ryanparsley/dashboards)
-[Blog post introducing the project](https://passport.vml.com/post/introducing-internet-dingus)
-[Blog post I wrote on passport digging into the arduino part](https://passport.vml.com/post/internet-dingus-arduino-breakdown)
+* [Frontend App](http://iod-client.herokuapp.com/)
+* [Drupal Server](http://iod-server.herokuapp.com/)
+* [MQTT Broker used (adafruit.io)](https://io.adafruit.com/ryanparsley/dashboards)
+* [Blog post introducing the project](https://passport.vml.com/post/introducing-internet-dingus)
+* [Blog post I wrote on passport digging into the arduino part](https://passport.vml.com/post/internet-dingus-arduino-breakdown)
