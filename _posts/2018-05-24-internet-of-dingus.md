@@ -5,17 +5,18 @@ tags:
   - iot
   - arduino
   - dingus
-exerpt: "The making of an IOT ecosystem."
+exerpt: The making of an IOT ecosystem.
 header:
-  teaser: "The making of an IOT ecosystem."
-  overlay_image: "/assets/images/nlp-ben.jpg"
+  teaser: The making of an IOT ecosystem.
+  overlay_image: /uploads/dingus-bb-1.png
   show_overlay_excerpt: false
 ---
 
 In this month’s Technically Speaking, Ryan demystifies the internet of things by creating an example to illustrate all the parts that make it work.
 
 ## What's a dingus?
-A dingus is... a kind of a thing. For the purposes of this talk, a dingus has:
+
+A dingus is… a kind of a thing. For the purposes of this talk, a dingus has:
 
 1. Wifi
 2. One actuator
